@@ -14,4 +14,4 @@ Arrow Right: Move the snake right
 
 ##DEMO
 
-live demo:link[https://mesrinath08.github.io/Snake-game/]
+[live demo](https://mesrinath08.github.io/Snake-game/)
