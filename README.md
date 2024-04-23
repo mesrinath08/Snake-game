@@ -1,8 +1,8 @@
-Snake-game
+#Snake-game
 
 A classic Snake Game implemented in JavaScript.
 
-Controls
+##Controls
 
 Arrow Up: Move the snake up.
 
@@ -12,6 +12,6 @@ Arrow Left: Move the snake left.
 
 Arrow Right: Move the snake right
 
-DEMO
+##DEMO
 
-live demo:link[]
+live demo:link[https://mesrinath08.github.io/Snake-game/]
